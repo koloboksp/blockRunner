@@ -1,0 +1,16 @@
+/Library
+/.vsconfig
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/UserSettings
+/Temp
+/.vs
+/Logs
+/obj
+/.idea
+/App.config
+/Assembly-CSharp-firstpass.csproj
+/mergeLi.sln
+/mergeLi.sln.DotSettings.user
+/playerData
+/playerLastSessionData
